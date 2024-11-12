@@ -234,7 +234,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 
-## Result :
+## output :
 ![111](https://github.com/user-attachments/assets/07451d64-4d0a-461d-aefd-587973113a30)
 
  ![222](https://github.com/user-attachments/assets/4063a94b-34af-4918-9db6-e2ed1a69af34)
@@ -243,6 +243,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![333](https://github.com/user-attachments/assets/7ffd489c-fca6-4f4b-875b-a632b9acd20b)
 
 
+
+## Result :
+Interfacing a push button and interrupt genrateion is simulated using proteus
 
 
 
